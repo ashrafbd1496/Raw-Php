@@ -1,8 +1,10 @@
 <?php 
 
 echo "This is the php syntax <hr>
-Github deskto has setup";
+Github desktop has setup";
 
 
  ?>
 
+<!-- Project link- 
+http://localhost/phpprojects/day01/php/phpsyntax.php -->
