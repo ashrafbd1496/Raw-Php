@@ -1,10 +1,10 @@
 <?php 
 
-echo "This is the php syntax <hr>
-Github desktop has setup";
+echo "This is the php syntax";
 
 
  ?>
 
-<!-- Project link- 
-http://localhost/phpprojects/day01/php/phpsyntax.php -->
+<!-- project link- 
+
+ http://localhost/phpprojects/day01/phpsyntax.php -->
