@@ -1,11 +1,11 @@
 <?php 
+//use of die function is - codes will not execute after use of die function.
+die();
 
-$name = '';
-
-if (empty($name)) {
-	echo "Name variable has not any value";
-}else{
-	echo "Name vaiable has value";
-}
+echo "My Name is Ashraf";
+echo "My Name is Suman";
+echo "My Name is Kareem";
+echo "My Name is Habib";
+echo "My Name is Umar";
 
  ?>
