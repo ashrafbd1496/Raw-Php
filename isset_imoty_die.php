@@ -1,6 +1,6 @@
 <?php 
 
-$name;
+$name = 'ashraf';
 
 if (isset($name)) {
 	echo "Name has set";
