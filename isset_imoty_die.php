@@ -2,10 +2,10 @@
 
 $name = 'ashraf';
 
-if (isset($name)) {
-	echo "Name has set";
+if (empty($name)) {
+	echo "Name variable has not any value";
 }else{
-	echo "Name did not set yet ";
+	echo "Name vaiable has value";
 }
 
  ?>
