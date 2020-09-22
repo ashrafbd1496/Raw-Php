@@ -24,6 +24,13 @@ echo date('g : i : A');
 echo "<br>";
 echo date('H : i : A');
 
+//to know more about the date function check out the links below-
+
+// https://www.w3schools.com/php/func_date_date.asp
+//https://www.php.net/manual/en/function.date.php
+echo "<br>";
+date_default_timezone_set("Asia/Dhaka");
+echo date('w');
 
 
  ?>
