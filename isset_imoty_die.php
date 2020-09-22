@@ -1,6 +1,6 @@
 <?php 
 
-$name = 'ashraf';
+$name = '';
 
 if (empty($name)) {
 	echo "Name variable has not any value";
